@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K472lVr9e8quicBSclf4hXnVMCb4Bv+4ZhW2ZGanPOnvaSe42mXeBBfjDpu/Zo1xoDZHfZPK/CZI/e4HVxkgxQ==",
+  "success": true,
+  "projectFilePath": "/Users/ahmetihsan/Projects/BankingAPI/BankingAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetihsan/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.13/microsoft.aspnetcore.jsonpatch.3.1.13.nupkg.sha512",
+    "/Users/ahmetihsan/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.13/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.13.nupkg.sha512",
+    "/Users/ahmetihsan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/ahmetihsan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ahmetihsan/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

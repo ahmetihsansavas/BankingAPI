@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{8F4A7979-CEAF-41BC-A836-8EA075D59677}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BankingAPIController.cs">
+    <Files>
+      <File FileName="Controllers/BankingAPIController.cs" Line="91" Column="40" />
+      <File FileName="Business/AccountManager.cs" Line="10" Column="16" />
+      <File FileName="Program.cs" />
+      <File FileName="Business/TransactionManager.cs" Line="10" Column="16" />
+      <File FileName="Helpers/ApiReturn.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankingAPI" expanded="True">
+            <Node name="BankingAPI" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="BankingAPIController.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BankingAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
